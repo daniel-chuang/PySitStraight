@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run webcam-test.py
+web: sh setup.sh && streamlit run webcam_test.py
